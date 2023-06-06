@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrahamtansari123&label=Profile%20views&color=0e75b6&style=flat" alt="mdrahamtansari123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrahamtansari123" alt="mdrahamtansari123" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgettrendygifs.wordpress.com%2Ftag%2Fcoding%2F&psig=AOvVaw1ndqnas_GuLuCkoIj5F1FZ&ust=1686125823963000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjAiqmarv8CFQAAAAAdAAAAABAg">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/mdrahamtansari123/mdrahamtansari123/assets/92224782/7d827b3d-dbe2-4e45-9f82-2a16d61b0d1f)">
 - 🔭 I’m currently working on [Dambaruu](https://www.dambaruu.com/)
 
 - 🌱 I’m currently learning **Django, Mysql, Digital ocean**
